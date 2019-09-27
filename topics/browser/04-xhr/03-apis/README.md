@@ -33,7 +33,7 @@ propia aplicación o página.
 
 > **Hay datos por ahí que solo esperan ser utilizados.**
 
-![ejemplosAPI](https://github.com/AnaSalazar/curricula-js/blob/ivandevp-06-spa/06-spa/02-asynchronous-js-request/03-apis/ejemplos-apis.png?raw=true)
+![ejemplosAPI](https://user-images.githubusercontent.com/110297/65788624-18567380-e121-11e9-9342-053aae358053.png)
 
 [Google](https://developers.google.com/apis-explorer/#p/) cuenta con una
 cantidad enorme de APIs, podemos hacer uso de alguna de ellas o buscar que

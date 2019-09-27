@@ -18,9 +18,9 @@ que la ventana del navegador se haga más pequeña.
 
 ![Kitten Dawn][1]  ![Kitten Night][2]  ![Kitten Sunnyday][3]
 
- [1]: https://raw.githubusercontent.com/Laboratoria/curricula-js/085543c5f0477cffcd3619ad3ffc3c03106caefc/04-social-network/00-rwd/06-code-challenges/kitten-dawn.png
- [2]: https://raw.githubusercontent.com/Laboratoria/curricula-js/085543c5f0477cffcd3619ad3ffc3c03106caefc/04-social-network/00-rwd/06-code-challenges/kitten-night.png
- [3]: https://raw.githubusercontent.com/Laboratoria/curricula-js/085543c5f0477cffcd3619ad3ffc3c03106caefc/04-social-network/00-rwd/06-code-challenges/kitten-sunnyday.png
+ [1]: https://raw.githubusercontent.com/Laboratoria/bootcamp/085543c5f0477cffcd3619ad3ffc3c03106caefc/04-social-network/00-rwd/06-code-challenges/kitten-dawn.png
+ [2]: https://raw.githubusercontent.com/Laboratoria/bootcamp/085543c5f0477cffcd3619ad3ffc3c03106caefc/04-social-network/00-rwd/06-code-challenges/kitten-night.png
+ [3]: https://raw.githubusercontent.com/Laboratoria/bootcamp/085543c5f0477cffcd3619ad3ffc3c03106caefc/04-social-network/00-rwd/06-code-challenges/kitten-sunnyday.png
 
 El sitio debe verse como en las imagenes anteriores. Puedes encontrar los
 gatitos y los paisajes [aquí](https://drive.google.com/open?id=0BwKm3JKzx3OlYXlFT2E1SWF0REE)
@@ -36,5 +36,5 @@ siguiente:
 
 ![Desktop][4]  ![Responsive][5]
 
- [4]: https://raw.githubusercontent.com/Laboratoria/curricula-js/085543c5f0477cffcd3619ad3ffc3c03106caefc/04-social-network/00-rwd/06-code-challenges/desktop.png
- [5]: https://raw.githubusercontent.com/Laboratoria/curricula-js/085543c5f0477cffcd3619ad3ffc3c03106caefc/04-social-network/00-rwd/06-code-challenges/responsive.png
+ [4]: https://raw.githubusercontent.com/Laboratoria/bootcamp/085543c5f0477cffcd3619ad3ffc3c03106caefc/04-social-network/00-rwd/06-code-challenges/desktop.png
+ [5]: https://raw.githubusercontent.com/Laboratoria/bootcamp/085543c5f0477cffcd3619ad3ffc3c03106caefc/04-social-network/00-rwd/06-code-challenges/responsive.png

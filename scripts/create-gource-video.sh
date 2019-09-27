@@ -11,7 +11,7 @@ gource \
   --camera-mode track \
   --hide filenames,mouse \
   --key \
-  --title curricula-js \
+  --title bootcamp \
   --font-size 18 \
   --seconds-per-day 0.3 \
   --auto-skip-seconds 0.3 \

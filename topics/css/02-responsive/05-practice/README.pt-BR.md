@@ -23,7 +23,7 @@ Você deve super o seu exercício para o GitHub e publicar no `gh-pages`.
 
 Tomando como base a imagem abaixo, replique a estrutura de grid.
 
-![grid](https://raw.githubusercontent.com/Laboratoria/curricula-js/3f8afb2f9db271342808d21647911c1de5c7d19f/04-social-network/00-rwd/06-guided-exercises/ejercicio-grid-gral.png)
+![grid](https://raw.githubusercontent.com/Laboratoria/bootcamp/3f8afb2f9db271342808d21647911c1de5c7d19f/04-social-network/00-rwd/06-guided-exercises/ejercicio-grid-gral.png)
 
 ### 2. De desktop para mobile
 
@@ -35,13 +35,13 @@ Replique a estrutura dektop e modifique-a para mobile como a imagem indica. Voc�
 consegue!
 
 ![desktop a
-mobile](https://raw.githubusercontent.com/Laboratoria/curricula-js/3f8afb2f9db271342808d21647911c1de5c7d19f/04-social-network/00-rwd/06-guided-exercises/ex-desktop-mobile.png)
+mobile](https://raw.githubusercontent.com/Laboratoria/bootcamp/3f8afb2f9db271342808d21647911c1de5c7d19f/04-social-network/00-rwd/06-guided-exercises/ex-desktop-mobile.png)
 
 ![desktop a
-mobile](https://raw.githubusercontent.com/Laboratoria/curricula-js/3f8afb2f9db271342808d21647911c1de5c7d19f/04-social-network/00-rwd/06-guided-exercises/ex-desktop-mobile2.png)
+mobile](https://raw.githubusercontent.com/Laboratoria/bootcamp/3f8afb2f9db271342808d21647911c1de5c7d19f/04-social-network/00-rwd/06-guided-exercises/ex-desktop-mobile2.png)
 
 ![desktop a
-mobile](https://raw.githubusercontent.com/Laboratoria/curricula-js/3f8afb2f9db271342808d21647911c1de5c7d19f/04-social-network/00-rwd/06-guided-exercises/ex-desktop-mobile3.png)
+mobile](https://raw.githubusercontent.com/Laboratoria/bootcamp/3f8afb2f9db271342808d21647911c1de5c7d19f/04-social-network/00-rwd/06-guided-exercises/ex-desktop-mobile3.png)
 
 ### 3. Love Love Panda Desu
 
@@ -52,7 +52,7 @@ link.](https://github.com/rafaelbcerri/love-panda).
 - Versão 2: Crie sua própria versão móvel da página.
 
 ![Love Love
-Panda](https://raw.githubusercontent.com/Laboratoria/curricula-js/a5233dee21c1cb455bc0c044ad4eb0f6b906f960/04-social-network/00-rwd/05-guided-exercises/love-love-panda.png)
+Panda](https://raw.githubusercontent.com/Laboratoria/bootcamp/a5233dee21c1cb455bc0c044ad4eb0f6b906f960/04-social-network/00-rwd/05-guided-exercises/love-love-panda.png)
 
 ### 4. Rock Site
 
@@ -61,10 +61,10 @@ system`. Para obter as imagens [este
 link](https://drive.google.com/drive/folders/1i9wBosEqkP3LEwBsB-T8089-NY5rhZuN?usp=sharing)
 
 ![Rock
-Desktop](https://raw.githubusercontent.com/Laboratoria/curricula-js/a5233dee21c1cb455bc0c044ad4eb0f6b906f960/04-social-network/00-rwd/05-guided-exercises/rock-desktop.png)
+Desktop](https://raw.githubusercontent.com/Laboratoria/bootcamp/a5233dee21c1cb455bc0c044ad4eb0f6b906f960/04-social-network/00-rwd/05-guided-exercises/rock-desktop.png)
 
 ![Rock
-Movil](https://raw.githubusercontent.com/Laboratoria/curricula-js/a5233dee21c1cb455bc0c044ad4eb0f6b906f960/04-social-network/00-rwd/05-guided-exercises/rock-movil.png)
+Movil](https://raw.githubusercontent.com/Laboratoria/bootcamp/a5233dee21c1cb455bc0c044ad4eb0f6b906f960/04-social-network/00-rwd/05-guided-exercises/rock-movil.png)
 
 ***
 No vídeo abaixo você irá ver como usar o CSS grid:

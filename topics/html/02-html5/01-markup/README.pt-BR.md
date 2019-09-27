@@ -238,7 +238,7 @@ seja vermelho em um fundo amarelo e com uma borda preta, fazemos:
 Ao visualizar o documento anterior no navegador, teremos:
 
 ![Exemplo de
-estilo](https://github.com/Laboratoria/curricula-js/raw/632783f957accef3442934c87cecd254a202f2db/03-interactive-site/00-html-and-css/01-html/img-style-attribute.png?raw=true)
+estilo](https://github.com/Laboratoria/bootcamp/raw/632783f957accef3442934c87cecd254a202f2db/03-interactive-site/00-html-and-css/01-html/img-style-attribute.png?raw=true)
 
 Um atributo de estilo pode conter uma ou mais instruções. Cada instrução é
 composta de uma **propriedade** (como cor) seguida por dois pontos e um

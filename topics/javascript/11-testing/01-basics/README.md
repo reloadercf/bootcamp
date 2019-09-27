@@ -82,7 +82,7 @@ Error: Cannot find module './isVowel'
     at Function.Module._load (module.js:482:25)
     at Module.require (module.js:604:17)
     at require (internal/module.js:11:18)
-    at Object.<anonymous> (/Users/lupo/work/laboratoria/curricula-js/05-deep-dive/03-testing/01-basics/files/isVowel.spec.js:1:79)
+    at Object.<anonymous> (/Users/lupo/work/laboratoria/bootcamp/05-deep-dive/03-testing/01-basics/files/isVowel.spec.js:1:79)
     at Module._compile (module.js:660:30)
     at Object.Module._extensions..js (module.js:671:10)
     at Module.load (module.js:573:32)
@@ -96,7 +96,7 @@ _leerlos_. El mensaje de error en sí dice que no se pudo encontrar el módulo
 `./isVowel`, y debajo tenemos una serie de líneas con el
 [stack trace](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/Stack),
 que nos muestra la pila de llamadas donde ocurrió el error. En este caso podemos
-ver que se menciona nuestro script (`/Users/lupo/work/laboratoria/curricula-js/05-deep-dive/03-testing/01-basics/files/isVowel.spec.js:1:79`),
+ver que se menciona nuestro script (`/Users/lupo/work/laboratoria/bootcamp/05-deep-dive/03-testing/01-basics/files/isVowel.spec.js:1:79`),
 y al final de la ruta al archivo vemos que aparecen dos números separados por
 dos puntos (`:`). Estos números nos dicen en qué línea y qué columna (posición
 dentro de la línea) está el código en cuestión. La línea `1` contiene
@@ -120,12 +120,12 @@ verse algo así:
 ```sh
 $ node ./isVowel.spec.js
 debería devolver true para letra a
-/Users/lupo/work/laboratoria/curricula-js/05-deep-dive/03-testing/01-basics/files/isVowel.spec.js:4
+/Users/lupo/work/laboratoria/bootcamp/05-deep-dive/03-testing/01-basics/files/isVowel.spec.js:4
 if (isVowel('a') !== true) {
     ^
 
 TypeError: isVowel is not a function
-    at Object.<anonymous> (/Users/lupo/work/laboratoria/curricula-js/05-deep-dive/03-testing/01-basics/files/isVowel.spec.js:6:5)
+    at Object.<anonymous> (/Users/lupo/work/laboratoria/bootcamp/05-deep-dive/03-testing/01-basics/files/isVowel.spec.js:6:5)
     at Module._compile (module.js:660:30)
     at Object.Module._extensions..js (module.js:671:10)
     at Module.load (module.js:573:32)

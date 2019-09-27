@@ -31,7 +31,7 @@ Podemos utilizar o Bootstrap em nossos projetos de diferentes formas, seja
 adicionando o código CDN ao nosso HTML para usá-lo de maneira remota ou baixando
 o Bootstrap na sua página web.
 
-![Bootstrap](https://raw.githubusercontent.com/Laboratoria/curricula-js/c6232fc0a639688fc216c72d17e325a588abae9d/04-social-network/01-css-frameworks/02-bootstrap/bcdn.png)
+![Bootstrap](https://raw.githubusercontent.com/Laboratoria/bootcamp/c6232fc0a639688fc216c72d17e325a588abae9d/04-social-network/01-css-frameworks/02-bootstrap/bcdn.png)
 
 Se utilizarmos as opções de baixar o Bootstrap, devemos descompactar e adicionar
 os arquivos do framework ao projeto. Além disso, devemo *linkar* todos no HTML
@@ -110,7 +110,7 @@ Para utilizar o que já nos oferece nosso framework, só necessitamos ir à sua
 página, procurar o componente que queremos utilizaer e *copiar e colar* em nosso
 HTML o código.
 
-![Bootstrap-btn](https://raw.githubusercontent.com/Laboratoria/curricula-js/f659ee55eeb322341c314d7d080bb22468e9a576/04-social-network/01-css-frameworks/02-bootstrap/btn-example.PNG)
+![Bootstrap-btn](https://raw.githubusercontent.com/Laboratoria/bootcamp/f659ee55eeb322341c314d7d080bb22468e9a576/04-social-network/01-css-frameworks/02-bootstrap/btn-example.PNG)
 
 E assim fácil e maravilhosamente já temos nossos botões.
 

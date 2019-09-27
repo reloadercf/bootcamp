@@ -63,7 +63,7 @@ asyncRequestObject.open();
 `.open()` toma una serie de parámetros, pero los más importantes son sus dos
 primeros: el método HTTP y la URL para enviar la solicitud.
 
-![sintax-open](https://github.com/AnaSalazar/curricula-js/blob/ivandevp-06-spa/06-spa/02-asynchronous-js-request/04-xhr/sintax_open.png?raw=true)
+![sintax-open](https://user-images.githubusercontent.com/110297/65788725-505db680-e121-11e9-9bb1-d0f3daf28aa6.png)
 
 Si queremos solicitar de manera asíncrona la página de inicio del popular sitio
 de imágenes de alta resolución, Unsplash, usaremos una solicitud GET y

@@ -29,7 +29,7 @@ autenticação que uma API necessita (os demais recursos também mostram esse
 detalhe, mas não à primeira vista).
 
 ![Different Web APIs
-Auth](https://github.com/ivandevp/curricula-js/blob/378ca9e9ad8d178bf783ebbcea6383d9c44a783b/06-spa/03-working-with-apis/02-web-apis/web-apis.png?raw=true)
+Auth](https://user-images.githubusercontent.com/110297/65788828-96b31580-e121-11e9-8691-1c14845bcb2f.png)
 
 Na imagem anterior, podemos visualizar a seção das APIs de Música, na qual a
 coluna `Auth` tem valores distintos como `NO`, `apikey` ou `OAuth`. É uma

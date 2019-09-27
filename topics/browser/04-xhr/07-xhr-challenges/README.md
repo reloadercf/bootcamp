@@ -30,4 +30,4 @@ ellas.
 - Y si ahora nuestra petición fuera a otro periódico?
 - Se puede tener diferentes peticiones a distintos sitios?
 
-![muestra](https://raw.githubusercontent.com/AnaSalazar/curricula-js/02c7691cd5325626c91a99f410fc8dddbc24b0fc/06-spa/02-asynchronous-js-request/07-xhr-challenges/muestra.png)
+![muestra](https://user-images.githubusercontent.com/110297/65788765-6cf9ee80-e121-11e9-8122-43711f1376f4.png)

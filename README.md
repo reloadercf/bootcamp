@@ -145,9 +145,9 @@ un prototipo para una _red social_ sobre algunos temas de entre los cuales las
 estudiantes deberán elegir.
 
 El objetivo principal de aprendizaje de este proyecto es construir un sitio web
-[_responsive_](https://github.com/Laboratoria/bootcamp/tree/master/topics/css/02-responsive)
-con más de una vista (página), y en el que podamos leer y escribir datos,
-entendiendo las necesidades de los usuarios para los que sw creará el producto.
+[_responsive_](topics/css/02-responsive) con más de una vista (página), y en el
+que podamos leer y escribir datos, entendiendo las necesidades de los usuarios
+para los que sw creará el producto.
 
 * Duración estimada: 3 semanas.
 * Equipos: 3 estudiantes.

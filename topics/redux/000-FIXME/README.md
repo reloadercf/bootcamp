@@ -28,7 +28,7 @@ siguientes conocimientos previos:
 * Manejo de línea de comandos (\*nix) y git
 * Javascript functional: es5, inmutabilidad, node y npm
 * Desarrollo web standard: html y dom + css
-* Debes haber completado el curso [11-react](https://github.com/Laboratoria/curricula-js/tree/master/11-react).
+* Debes haber completado el curso [11-react](https://github.com/Laboratoria/bootcamp/tree/master/topics/react).
 
 ## Aprenderás
 

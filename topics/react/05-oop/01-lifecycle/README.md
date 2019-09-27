@@ -454,4 +454,4 @@ Sólo debes utilizar el estado local de un componente cuando
 
 Chequea todos los *hooks* disponibles en la [documentación de `React`](https://facebook.github.io/react/docs/react-component.html#the-component-lifecycle)
 
-> ![Component lifecycle](https://github.com/Laboratoria/curricula-js/raw/master/11-react/L07-oop/static/lifecycle.jpg)
+> ![Component lifecycle](https://github.com/Laboratoria/bootcamp/raw/master/11-react/L07-oop/static/lifecycle.jpg)

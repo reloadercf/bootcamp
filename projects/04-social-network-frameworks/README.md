@@ -50,7 +50,7 @@ cero, su alcance, sus particularidades, el flujo, las validaciones, etc.
 Concéntrate en aprender y utilizar estas nuevas tecnologías.
 
 El alcance del proyecto y el detalle de sus características es exactamente
-[el mismo que el original](https://github.com/Laboratoria/curricula-js/tree/v2.x/projects/03-social-network),
+[el mismo que el original](https://github.com/Laboratoria/bootcamp/tree/master/projects/03-social-network),
 incluyendo la parte de Hacker Edition pero excluyendo la parte de UX.
 
 ## 3. Objetivos de aprendizaje
@@ -81,11 +81,11 @@ Para comenzar tendrás que hacer un _fork_ y _clonar_ este repositorio.
 
 ## 5. Criterios de aceptación mínimos del proyecto
 
-Ver [03-social-network](https://github.com/Laboratoria/curricula-js/tree/v2.x/projects/03-social-network#parte-obligatoria).
+Ver [03-social-network](https://github.com/Laboratoria/bootcamp/tree/master/projects/03-social-network#5-criterios-de-aceptación-mínimos-del-proyecto).
 
 ## 6. Hacker edition
 
-Ver [03-social-network](https://github.com/Laboratoria/curricula-js/tree/v2.x/projects/03-social-network#hacker-edition).
+Ver [03-social-network](https://github.com/Laboratoria/bootcamp/tree/master/projects/03-social-network#6-hacker-edition).
 
 ## 7. Entrega
 

@@ -23,7 +23,7 @@ podemos ver los pasos necesarios para empezar.
 Observamos que del lado izquierdo tenemos un menú lateral, ahí podemos
 encontrar las opciones que tenemos para que nuestros usuarios accedan:
 
-![menu-lateral](https://raw.githubusercontent.com/Laboratoria/curricula-js/4b5f150a38604e2f0854ec556edc48e53ef2b211/04-social-network/04-firebase-101/01-auth/images/menu-lateral.png)
+![menu-lateral](https://raw.githubusercontent.com/Laboratoria/bootcamp/4b5f150a38604e2f0854ec556edc48e53ef2b211/04-social-network/04-firebase-101/01-auth/images/menu-lateral.png)
 
 Ahora ya sólo debemos de seguir los pasos que ahí nos vienen. Muchas veces
 parece ser más rebuscado de lo que es pero si de todos modos ya te leíste su

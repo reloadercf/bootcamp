@@ -74,7 +74,7 @@
 
 ### 6) ¿Qué número de columnas son las que faltan?
 
-![Frameworks](https://raw.githubusercontent.com/Laboratoria/curricula-js/b6a70152fb5675d12ddc797fb9a209f63eab1283/04-social-network/01-css-frameworks/05-quiz/grid.jpg)
+![Frameworks](https://raw.githubusercontent.com/Laboratoria/bootcamp/b6a70152fb5675d12ddc797fb9a209f63eab1283/04-social-network/01-css-frameworks/05-quiz/grid.jpg)
 
 #### Opciones
 
