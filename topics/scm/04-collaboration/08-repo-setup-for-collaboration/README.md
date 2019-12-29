@@ -6,7 +6,6 @@
 
 ***
 
-
 * Permissions/Access
 * Branches: `master` vs `develop` vs _feature branches_.
 * Branch settings: Permissions, CI checks, required reviews, ...

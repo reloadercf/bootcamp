@@ -6,4 +6,6 @@
 
 ***
 
-Blah...
+* [NodeSchool](https://nodeschool.io/)
+* [Git-it](https://github.com/jlord/git-it-electron)
+* [Instalación/descarga](https://github.com/jlord/git-it-electron/releases/latest)

@@ -32,12 +32,17 @@ curso. Está diseñado para principiantes.
 
 ### Unidad 00: [Intro](00-intro)
 
+En este curso hablaremos principalmente de `git` y GitHub, pero antes de
+centrarnos en una herramienta (`git`) y un proveedor de servicios (GitHub),
+hablemos un poco sobre el contexto en el que existen y el problema que tratan de
+resolver de forma más general.
+
 |  # |  Tipo     | Formato    | Duración | Descripción
 |----|-----------|------------|----------|------------
-| 01 | video     | self-paced | Xmin     | [Qué es SCM y control de versiones?](00-intro/01-scm)
-| 02 | video     | self-paced | Xmin     | [Sistemas centralizados (los origenes)](00-intro/02-centralized)
-| 03 | video     | self-paced | Xmin     | [Sistemas distribuidos (el presente)](00-intro/03-distributed)
-| 04 | video     | self-paced | Xmin     | [Servicios alojados en la nube](00-intro/04-cloud-hosted)
+| 01 | video     | self-paced | 2min     | [Qué es SCM y control de versiones?](00-intro/01-scm)
+| 02 | video     | self-paced | 1min     | [Sistemas centralizados (los origenes)](00-intro/02-centralized)
+| 03 | video     | self-paced | 1min     | [Sistemas distribuidos (el presente)](00-intro/03-distributed)
+| 04 | video     | self-paced | 2min     | [Servicios alojados en la nube](00-intro/04-cloud-hosted)
 
 ### Unidad 01: [Git](01-git)
 
@@ -67,6 +72,11 @@ colaboración).
 
 ### Unidad 03: [Git+it](03-git-it)
 
+Una vez vista una primera introducción a `git` y GitHub, en esta unidad te
+invitamos a hacer Git-it, el tutorial interactivo de la comunidad de NodeSchool.
+Este tutorial te ayudará a repasar, practicar y afianzar lo aprendido hasta
+ahora.
+
 |  # |  Tipo     | Formato    | Duración | Descripción
 |----|-----------|------------|----------|------------
 | 01 | video     | self-paced | Xmin     | [Git-it y NodeSchool](03-git-it/01-git-it-and-nodeschool)
@@ -74,6 +84,11 @@ colaboración).
 | 03 | video     | self-paced | Xmin     | [Primeros pasos con Git-it](03-git-it/03-getting-started)
 
 ### Unidad 04: [Colaboración con Git y GitHub](04-collaboration)
+
+En esta unidad exploraremos usos avanzados de `git` y GitHub, primero dando un
+poco de contexto sobre modelos de colaboración, flujos de trabajo y conveciones,
+y finalmente veremos varias tareas comunes a la hora de colaborar en proyectos
+de software.
 
 |  # |  Tipo     | Formato    | Duración | Descripción
 |----|-----------|------------|----------|------------
@@ -98,3 +113,13 @@ colaboración).
 ## Benchmarks
 
 ## Referencias
+
+* [Control de versiones - Wikipedia](https://es.wikipedia.org/wiki/Control_de_versiones)
+* [CVS - Concurrent Versions System](https://www.nongnu.org/cvs/)
+* [Apache® Subversion®](https://subversion.apache.org/)
+* [Git](https://git-scm.com/)
+* [Mercurial](https://www.mercurial-scm.org/)
+* [GitLab](https://about.gitlab.com/)
+* [Bitbucket](https://bitbucket.org/)
+* [GitHub](https://github.com/)
+* [Git-it](https://github.com/jlord/git-it-electron)
