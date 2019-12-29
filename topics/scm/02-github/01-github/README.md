@@ -1,4 +1,4 @@
-# GitHub
+# ¿Qué es GitHub?
 
 * Tipo: `lectura`
 * Formato: `self-paced`
