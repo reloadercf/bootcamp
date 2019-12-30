@@ -39,9 +39,9 @@ resolver de forma más general.
 
 |  # |  Tipo     | Formato    | Duración | Descripción
 |----|-----------|------------|----------|------------
-| 01 | video     | self-paced | 2min     | [Qué es SCM y control de versiones?](00-intro/01-scm)
-| 02 | video     | self-paced | 1min     | [Sistemas centralizados (los origenes)](00-intro/02-centralized)
-| 03 | video     | self-paced | 1min     | [Sistemas distribuidos (el presente)](00-intro/03-distributed)
+| 01 | video     | self-paced | 2min     | [Qué es SCM y control de versiones?](00-intro/01-vcs)
+| 02 | video     | self-paced | 1min     | [Sistemas centralizados](00-intro/02-centralized)
+| 03 | video     | self-paced | 1min     | [Sistemas distribuidos](00-intro/03-distributed)
 | 04 | video     | self-paced | 2min     | [Servicios alojados en la nube](00-intro/04-cloud-hosted)
 
 ### Unidad 01: [Git](01-git)
