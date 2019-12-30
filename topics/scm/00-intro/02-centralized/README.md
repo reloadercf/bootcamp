@@ -1,4 +1,4 @@
-# Sistemas centralizados (los origenes)
+# Sistemas centralizados
 
 * Tipo: `video`
 * Formato: `self-paced`
