@@ -2,7 +2,7 @@
 
 * Tipo: `video`
 * Formato: `self-paced`
-* Duración: `1min`
+* Duración: `2min`
 
 ***
 
@@ -50,7 +50,8 @@ cual nos hace depender de la conexión a dicho servidor.
 Para prevenir sobre-escribir cambios y posibles conflictos, este tipo de
 sistemas, dada su naturaleza centralizada, también nos permiten hacer cosas como
 _bloquear_ ciertos archivos o carpetas para que otros usuarios no los puedan
-cambiar hasta que los hayamos desbloqueado.
+cambiar hasta que los hayamos desbloqueado, así como otras herramientas para
+manejar conflictos e integración.
 
 Hoy en día los sistemas centralizados han perdido mucha relevancia desde la
 aparición de los sistemas distribuidos, y en particular la abrumante popularidad

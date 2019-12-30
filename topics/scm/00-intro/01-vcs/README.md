@@ -2,7 +2,7 @@
 
 * Tipo: `video`
 * Formato: `self-paced`
-* Duración: `2min`
+* Duración: `3min`
 
 ***
 
