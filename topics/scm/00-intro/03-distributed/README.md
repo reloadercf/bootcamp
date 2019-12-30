@@ -1,4 +1,4 @@
-# Sistemas distribuidos: [Git](https://git-scm.com/), [Mercurial](https://www.mercurial-scm.org/)
+# Sistemas distribuidos
 
 * Tipo: `video`
 * Formato: `self-paced`
@@ -6,4 +6,29 @@
 
 ***
 
-Blah!
+[Git](https://git-scm.com/), [Mercurial](https://www.mercurial-scm.org/)
+
+```
+ __________________________________________pull___________________
+|                                                                 |
+|   _________            _________          _________          ___v_____
+|  |         |          |         |        |         |        |         |
+|  |    A    |          |    B    |        |    C    |        |    D    |
+|  | (local) |          | (local) |        | (local) |        | (local) |
+|  |_________|          |_________|        |_________|        |_________|
+|    |    ^               ^   | ^            ^  |               ^    |
+|    |    |        _clone_|   | |      clone |  | push   _clone_|    |
+|    |    |       /           | |            |  |       /            |
+|    |    |_pull_/__          | |            |  |      /             |
+|----|----------/---\---------|-|------------|--|-----/-- Internet --|----------
+|    | push    /     \        | |            |  |    /               |
+|    |        /       \ push  | |            |  |   /                |
+|   _v_______/_        _\_____v_| _        __|__v__/_                |
+|  |           |      |           |      |           |               |
+---|    🏢     |      |    🏢     |      |    🏢     |<-----push-----/
+   | (remoto)  |      | (remoto)  |      | (remoto)  |
+   |___________|      |___________|      |___________|
+       ^   |                                ^   |
+       |   |______________fork______________|   |
+       |__________________pull request__________|
+```

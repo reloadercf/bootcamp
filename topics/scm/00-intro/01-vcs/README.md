@@ -1,4 +1,4 @@
-# Qué es SCM y control de versiones?
+# Qué son SCM y VCS?
 
 * Tipo: `video`
 * Formato: `self-paced`
@@ -7,9 +7,9 @@
 ***
 
 _SCM (Source Code Management en inglés)_, también conocido como
-[_control de versiones_](https://es.wikipedia.org/wiki/Control_de_versiones),
-hace referencia al manejo de cambios que se hace a archivos y carpetas a lo
-largo de la vida de un producto de software.
+[_control de versiones_](https://es.wikipedia.org/wiki/Control_de_versiones)
+(_VCS_ - _Version Control Systems_), hace referencia al manejo de cambios que se
+hacen a archivos y carpetas a lo largo de la vida de un producto de software.
 
 La necesidad de organizar diferentes versiones de un mismo _documento_ existe
 prácticamente desde el inicio de la escritura misma. Con la aparición de la
@@ -45,3 +45,17 @@ va a hacer cambios? :scream:
 El control de versiones nos permite organizar conjuntos de cambios en una
 historia que nos permite regresar a ciertos puntos en esa historia, comparar y
 ver los cambios que se introducen, así como quién los hace.
+
+## Por qué es útil el control de versiones?
+
+* Disciplina (organización de unidades de cambio, integración entre colaboradores, ...)
+* Versiones archivadas (historia de versiones)
+* Historia con info sobre los cambios (qué, quién, cuándo, ...)
+* Colaboracion (integración, repositorios remotos)
+* Recuperación de borrado o edición accidental (error humano)
+* Optimiza el uso de recursos (espacio en disco, ...)
+
+## Links relacionados
+
+* [Control de versiones - Wikipedia](https://es.wikipedia.org/wiki/Control_de_versiones)
+* [Version Control System Introduction - Georgia Tech - Software Development Process](https://www.youtube.com/watch?v=zbKdDsNNOhg)

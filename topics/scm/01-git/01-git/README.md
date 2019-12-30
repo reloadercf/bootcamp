@@ -14,7 +14,7 @@ siguientes páginas:
 
 ***
 
-`Git` es un `Sistema de Control de Versiones`.
+`Git` es el `Sistema de Control de Versiones` más popular a día de hoy.
 
 > **¿Qué es el Sistema de Control de Versiones?**
 
