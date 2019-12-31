@@ -64,15 +64,15 @@ veremos ejemplos más detallados cuando veamos `git` y GitHub en conjunto.
        |__________________pull request__________|
 ```
 
-En la ilustración de arriba vemos un ejemplo de como el usuario `A` comienza por
-crear un _repositorio local_, depués crea un _repositorio remoto_ (_upstream_).
-Después el usuario `B` _clona_ directamente de _upstream_, y después crea un
-repo remoto (posiblemente en un proveedor diferente), al que empuja sus cambios.
-El usuario `C` en cambio crea su propio _fork_, que después clonará y al que
-podrá enviar cambios. Finalmente el usuario `D` _clona_ directamente del _fork_
-de `C`, y en este ejemplo asumimos que `C` le ha dado permisos tanto de lectura
-como de escritura ya que vemos que `D` empuja camnios (`push`) directamente al
-_fork_ de `C`.
+La ilustración de arriba muestra un ejemplo en el que el usuario `A` comienza
+por crear un _repositorio local_, depués crea un _repositorio remoto_
+(_upstream_). Después el usuario `B` _clona_ directamente de _upstream_, y
+después crea un repo remoto (posiblemente en un proveedor diferente), al que
+empuja sus cambios. El usuario `C` en cambio crea su propio _fork_, que después
+clonará y al que podrá enviar cambios. Finalmente el usuario `D` _clona_
+directamente del _fork_ de `C`, y en este ejemplo asumimos que `C` le ha dado
+permisos tanto de lectura como de escritura ya que vemos que `D` empuja camnios
+(`push`) directamente al _fork_ de `C`.
 
 También podemos ver que se envian _pull requests_ desde el _fork_ de `C` a
 _upstream_ y que cualquiera puede interactuar con cualquier otro nodo al que
