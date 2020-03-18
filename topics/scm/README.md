@@ -5,14 +5,16 @@ código fuente y colaborar con otras personas.
 
 ## Público objetivo
 
-Este curso está dirigido a personas _sin_ conocimientos previos de programación
-que tienen el interés de aventurarse al mundo del código. Será tu primer paso en
-la ruta de aprendizaje.
+Este curso está dirigido a personas que están comenzando a programar y quieren
+iniciarse en el mundo del control de versiones para manejar mejor su trabajo y
+poder colaborar con otras personas.
 
 ## Requerimientos previos
 
-Ningún conocimiento previo de programación es necesario para completar este
-curso. Está diseñado para principiantes.
+Ningún conocimiento previo de programación o control de versiones es necesario
+para completar este curso. Eso sí, el curso asume que ya tienes instalados tanto
+un **terminal** (emulador de terminal) como un **editor de texto** y que estás
+minimamente familiarizadx con estas herramientas.
 
 ## Aprenderás
 

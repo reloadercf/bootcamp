@@ -1,5 +1,20 @@
 # Unix Shell
 
+<!--
+* Qué es? (un programa, interfaz - i/o - de texto, terminal + shell)
+* Como instalo un terminal o emulador de terminal en mi computadora?
+* Como abro el terminal en mi computadora?
+* Primeros comandos: `echo`, `date`, `whoami`
+* Sistema de archivos (`pwd`, `ls`, `mkdir`, `cd`, `touch`, ...)
+* Usuarios y permisos (`HOME`, `whoami`, `su`, `sudo`, `users`, `groups`,
+  `chown`, `chmod`)
+* Entorno: `PATH`, `env`, `EDITOR`, `SHELL`, `.bashrc`, `.profile`, ...
+* Ejecutables y procesos: `argv`, `pid`, `jobs`, `fg`, `bg`, `kill`, `ps`, ...
+* Pipes y redirecciones: `|`, `>`, `>>`, `stdin`, `stdout`, `stderr`, `tee`, ...
+* Scripting: variables, condicionales, bucles, ...
+* Configuración / personalización: `.bashrc`, `.profile`, ...
+-->
+
 La línea de comandos es una interfaz que algunos pensarían está ya anticuada.
 Pero la realidad es completamente distinta. El terminal se ha convertido en una
 pieza crucial en el día a día de un desarrollador web, ya sea usando `git`,
