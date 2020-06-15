@@ -90,7 +90,7 @@ Error: Cannot find module './isVowel'
     at Function.Module._load (module.js:505:3)
 ```
 
-Como vemos recibimos un error: `Error: Cannot find module './isVowel'`. Los
+Como vemos, recibimos un error: `Error: Cannot find module './isVowel'`. Los
 errores pueden ser un poco crípticos al principio, y hay que aprender a
 _leerlos_. El mensaje de error en sí dice que no se pudo encontrar el módulo
 `./isVowel`, y debajo tenemos una serie de líneas con el
@@ -109,7 +109,7 @@ así que creémoslo y declaremos una función con el nombre `isVowel`:
 ```js
 // Archivo `isVowel.js`
 
-const isVowel = function (char) {
+const isVowel = (char) => {
   // ...
 };
 ```
@@ -160,7 +160,7 @@ objeto `module` exista en el ámbito global.
 ```js
 // Archivo `isVowel.js`
 
-const isVowel = function (char) {
+const isVowel = (char) => {
   // ...
 };
 
@@ -186,7 +186,7 @@ Ahora sí, implementamos la funcionalidad esperada en `isVowel()`:
 ```js
 // Archivo `isVowel.js`
 
-const isVowel = function (char) {
+const isVowel = (char) {
   return ['a', 'e', 'i', 'o', 'u'].indexOf(char) > -1;
 };
 
